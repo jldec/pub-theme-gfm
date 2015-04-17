@@ -1,0 +1,21 @@
+{
+  "name": "pub-theme-gfm",
+  "version": "0.5.0",
+  "description": "pub-server theme for github markdown with syntax highlighting",
+  "main": "pub-config.js",
+  "dependencies": {
+    "github-markdown-css": "*"
+  },
+  "keywords": [
+    "publish",
+    "markdown",
+    "github",
+    "flavored"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jldec/pub-theme-gfm.git"
+  },
+  "author": "jurgen leschner",
+  "license": "MIT"
+}
