@@ -1,6 +1,6 @@
 {
   "name": "pub-theme-gfm",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "pub-server theme for github markdown with syntax highlighting",
   "main": "pub-config.js",
   "dependencies": {

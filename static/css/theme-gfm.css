@@ -14,7 +14,7 @@ a { color: #4183c4; text-decoration: none; }
 
 @media only screen and (max-width: 1080px) {
 
-.toc { float:none; }
+.toc { display:none; }
 
 }
 
