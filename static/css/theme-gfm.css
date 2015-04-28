@@ -3,16 +3,16 @@
 html, body { margin: 0; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 18px; color: #444; background-color: #fff; }
 a { color: #4183c4; text-decoration: none; }
 
-.container { max-width:1080px; margin:0 auto; padding:10px; }
+.container { max-width:1000px; margin:0 auto; padding:10px; }
 
-.toc { float:right; width:280px; padding:20px; margin-top:1em; }
+.toc { float:right; width:210px; padding:15px; margin-top:1em; }
 .toc ul { padding:0; margin:0; }
 .toc li { list-style:none; padding-bottom:1em; line-height:1.2; font-size:16px; }
 
-.content { max-width:760px; padding:0 20px; }
+.content { max-width:790px; padding:0 20px; }
 
 
-@media only screen and (max-width: 1080px) {
+@media only screen and (max-width: 1000px) {
 
 .toc { display:none; }
 

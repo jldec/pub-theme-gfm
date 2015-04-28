@@ -6,7 +6,7 @@
  *
  * copyright 2015, Jurgen Leschner - github.com/jldec - MIT license
  *
- * for highlight.js please see included LICENSE-HIGHLIGHT
+ * for highlight.js please see included static/js/LICENSE-HIGHLIGHT
  * or visit https://github.com/isagalaev/highlight.js
  */
 
