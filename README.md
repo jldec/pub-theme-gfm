@@ -11,10 +11,6 @@ This theme is included with pub-server as the default theme
 npm install -g pub-server
 ```
 
-Or if you prefer you can make pub-server a devDependency in your project's
-package.json. In that case you will need to prefix `pub` commands with `npm run` on the
-command line.
-
 
 ### to preview your markdown files
 

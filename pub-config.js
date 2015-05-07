@@ -1,8 +1,7 @@
 module.exports =
 {
   sources: [
-    './src',
-    { path: './README.md', route: '/admin/theme' }
+    './templates'
   ],
 
   staticPaths: [
