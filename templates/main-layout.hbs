@@ -1,10 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{title}}</title>
+{{{injectCss}}}
+</head>
+<body>
 <div class="container">
-<div class="toc">
-<ul>
-{{#eachPage}}<li>{{{pageLink}}}</li>{{/eachPage}}
-</ul>
-</div>
+
+<div class="toc"><ul>
+{{#eachPage~}}
+<li>{{{pageLink}}}</li>
+{{/eachPage}}
+</ul></div>
+
 <div class="markdown-body content">
 {{{renderPage}}}
 </div>
+
 </div>
+{{{injectJs}}}
+{{{copyrightComment}}}
+</body>
+</html>

@@ -1,7 +1,7 @@
 {
   "name": "pub-theme-gfm",
-  "version": "1.0.3",
-  "description": "pub-server theme for github markdown with syntax highlighting",
+  "version": "2.0.0",
+  "description": "pub-server theme for github markdown",
   "main": "pub-config.js",
   "dependencies": {
     "github-markdown-css": "^2.0.8"

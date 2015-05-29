@@ -7,8 +7,8 @@ module.exports =
   ],
 
   staticPaths: [
-    { path:'./node_modules/github-markdown-css/github-markdown.css', route:'/css', maxAge:'1d' },
-    { path:'./static' }
-  ],
+    { path:'./node_modules/github-markdown-css/github-markdown.css', route:'/css', inject:true },
+    { path:'./css/pub-theme-gfm.css', route:'/css', inject:true }
+  ]
 
 }

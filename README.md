@@ -34,4 +34,3 @@ With a `pub-config.json` file, you can configure which source files to include. 
 
 ### credits
 - github-like markdown css thanks to https://github.com/sindresorhus/github-markdown-css
-- syntax highlighting thanks to https://github.com/isagalaev/highlight.js
