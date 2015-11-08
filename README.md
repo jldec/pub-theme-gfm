@@ -1,7 +1,7 @@
 # pub-theme-gfm
 
 pub theme for previewing markdown with a style similar to
-[Github flavored markdown](https://help.github.com/articles/github-flavored-markdown/).
+[GitHub flavored markdown](https://help.github.com/articles/github-flavored-markdown/).
 
 ### installation
 
