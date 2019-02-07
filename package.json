@@ -1,10 +1,10 @@
 {
   "name": "pub-theme-gfm",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "pub-server theme for github markdown",
   "main": "pub-config.js",
   "dependencies": {
-    "github-markdown-css": "^2.1.0"
+    "github-markdown-css": "^3.0.1"
   },
   "keywords": [
     "publish",

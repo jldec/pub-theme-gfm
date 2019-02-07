@@ -1,7 +1,10 @@
 # pub-theme-gfm
 
-pub theme for previewing markdown with a style similar to
-[GitHub flavored markdown](https://help.github.com/articles/github-flavored-markdown/).
+[pub-server](https://github.com/jldec/pub-server) theme for previewing markdown with a style similar to
+[GitHub flavored markdown](https://help.github.com/articles/github-flavored-markdown/).  
+This theme was a precursor to [pub-theme-doc](https://github.com/jldec/pub-theme-doc/) and is no longer being maintained.
+
+![](/images/largescreen.png)
 
 ### installation
 
