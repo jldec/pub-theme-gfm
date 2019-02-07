@@ -25,7 +25,7 @@ Include "pub-theme-gfm" in `pub-config.js` pkgs.
 
 ``` json
 {
-  "pkgs": ["pub-theme-gfm", ...],
+  "pkgs": ["pub-theme-gfm"]
 }
 ```
 
